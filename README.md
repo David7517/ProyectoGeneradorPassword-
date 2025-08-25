@@ -67,12 +67,19 @@ Esto contribuye a la seguridad digital y refuerza el aprendizaje de estructuras 
 Ejemplo de salida:
 
 === Generador Seguro de Contraseñas ===
+
 ¿Desea generar una contraseña? (si/no): si
+
 Longitud de la contraseña (mínimo 8): 10
+
 ¿Incluir mayúsculas? (si/no): si
+
 ¿Incluir minúsculas? (si/no): si
+
 ¿Incluir números? (si/no): si
+
 ¿Incluir símbolos? (si/no): si
 
 Contraseña generada:
+
 A9!kPz#LmQ
